@@ -1,0 +1,31 @@
+.banner {
+  background: linear-gradient(
+    rgba(20, 20, 20, .5)
+    , rgba(20, 20, 20, .5))
+    , url("https://www.toronto.ca/wp-content/uploads/2020/03/94a1-emergency-home-page-skyline.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 370px;
+  justify-content: center;
+}
+
+.banner > .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  text-align: left;
+}
+
+.banner img {
+  height: 120px;
+}
+
+.banner h1 {
+  margin-bottom: 0;
+}
+
+.banner p {
+  margin-top: 0;
+  margin-bottom: 50px;
+}

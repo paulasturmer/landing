@@ -1,0 +1,28 @@
+.btn-consultation {
+  border-radius: 4px;
+  background-color: #EB932C;
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+  padding: 10px 20px;
+  transition: 0.3s;
+  box-shadow: 1px 1px 1px #b26f21;
+}
+
+.btn-consultation:hover {
+  background-color: #b26f21;
+}
+
+.btn-ico {
+  color: white;
+  padding: 5px 12px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 120%;
+  transition: 0.3s;
+}
+
+.btn-ico:hover {
+  color: #2E898B;
+}
+
